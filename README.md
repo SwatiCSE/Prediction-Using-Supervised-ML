@@ -4,6 +4,9 @@
 # machine learning
 # data science
 # internship
-# pyhton
-# jupyter notebook
-
+# python
+# google colab  notebook
+# numPy
+# pandas
+# THE SPARKS FOUNDATION
+# 
